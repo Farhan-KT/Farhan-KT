@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-kt&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-kt" /> </p>
 
-- 🔭 I’m currently working on **Hive**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Hive**
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
