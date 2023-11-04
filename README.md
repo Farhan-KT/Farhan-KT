@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
-- 💬 Ask me about **Html,Css,JavaScript,Dart,Flutter**
+- 💬 Ask me about **Html, Css, JavaScript, Dart, Flutter**
 
 - 📫 How to reach me **farhankt46@gmail.com**
 
