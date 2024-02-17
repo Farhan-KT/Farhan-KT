@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-kt&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-kt" /> </p>
 
-- 🔭 I’m currently working on **Mini Project**
+- 🔭 I’m currently working on **integrating API into my Flutter project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
