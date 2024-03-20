@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML,Css,JavaScript,Dart,Flutter**
+- 💬 Ask me about **HTML,Css,JavaScript,Dart,Flutter,MVC Architecture,Provider,API,Firebase**
 
 - 📫 How to reach me **farhankt46@gmail.com**
 
