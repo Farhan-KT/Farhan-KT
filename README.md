@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **RoadWay car sale app using Firebase**
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m currently learning **Firebase**
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
