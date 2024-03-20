@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-kt&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-kt" /> </p>
 
-- 🔭 I’m currently working on **integrating API into my Flutter project**
+- 🔭 I’m currently working on **RoadWay car sale app using Firebase**
 
 - 🌱 I’m currently learning **FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML,Css,JavaScript,Dart,Flutter,MVC Architecture,Provider,API,Firebase**
+- 💬 Ask me about **HTML,Css,JavaScript,Dart,Flutter,MVC Architecture,Provider,REST API,Firebase**
 
 - 📫 How to reach me **farhankt46@gmail.com**
 
