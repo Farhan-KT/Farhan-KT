@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
-- 💬 Ask me about **HTML, Css, JavaScript, Dart, Flutter, Provider, MVC, MVVM, Provider, REST API, Firebase**
+- 💬 Ask me about **HTML, Css, JavaScript, Dart, Flutter,Hive, Provider, MVC, MVVM, Provider, REST API, Firebase**
 
 - 📫 How to reach me **farhankt46@gmail.com**
 
