@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MedHeal Doctor Appointment App**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **GetX**
 
 - 👨‍💻 All of my projects are available at [https://farhan-kt.github.io/Portfolio/](https://farhan-kt.github.io/Portfolio/)
 
